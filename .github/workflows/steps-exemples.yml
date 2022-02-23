@@ -1,4 +1,4 @@
-jobx:
+jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Setup Node.js environment
