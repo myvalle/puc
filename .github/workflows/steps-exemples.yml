@@ -1,4 +1,9 @@
+name: jobs examples
+
+on:
+   push
 jobs:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Setup Node.js environment
