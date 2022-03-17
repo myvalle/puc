@@ -1,1 +1,2 @@
-Automação e Orquestração - PUC Minas
+Automacao e Orquestracao - PUC Minas
+Especializacao em Computacao em Nuvem
