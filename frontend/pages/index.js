@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
       <main>
         <p />
-        <h1>Welcome to DevOps-Cyo!</h1>
+        <h1>Welcome to DevOps-Cyo! Versao 2.0</h1>
       </main>
     </div>
   );
