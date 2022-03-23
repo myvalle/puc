@@ -1,2 +1,3 @@
-Automacao e Orquestracao - PUC Minas
-Especializacao em Computacao em Nuvem
+# DevOps - CYO
+
+Repository with DevOps practices examples.
